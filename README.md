@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute to an Open Source project.
 - I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 <br/>
-<br/>
 
 ### Connect with me 📫:
 
