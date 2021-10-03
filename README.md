@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][github]
 
-<br/>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact&hide=css,html)](https://github.com/matanm28/github-readme-stats)
 
@@ -56,9 +57,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🔢 Statistics
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=matanm28.matanm28)
-    
+
   ![My Github Stats](https://github-readme-stats.vercel.app/api?username=matanm28&count_private=true&show_icons=true&theme=dracula)
 
 [twitter]: https://twitter.com/MatanMalka2
