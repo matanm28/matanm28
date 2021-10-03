@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Matan Malka 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=matanm28&style=plastic&color=brightgreen" alt="matanm28" /> </p>
 
 ## 👨🏻‍💻 About Me
-- 🔭 I’m currently working at Cisco as a Software engineer.
+- 🔭 I’m currently working at Cisco as a software engineer.
 - 🌱 I’m currently learning app development with Blazor and C#.
 - 🥅 2021 Goals: Contribute to an Open Source project.
 - I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
