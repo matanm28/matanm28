@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="matanm28 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="matanm28 | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
-<br />
+<br/>
 <br/>
 
 ### Programming Languages 🚀
@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][github]
 
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact&hide=css,html)](https://github.com/matanm28/github-readme-stats)
 
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
 [<img alt="Git" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>][github]
 [<img alt="GitHub" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>][github]
 
+<br/>
 <br/>
 <br/>
 
