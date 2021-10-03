@@ -11,7 +11,7 @@
     
   ![My Github Stats](https://github-readme-stats.vercel.app/api?username=matanm28&count_private=true&show_icons=true&theme=dracula)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact)](https://github.com/matanm28/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact&hide=css,html)](https://github.com/matanm28/github-readme-stats)
 
 <!--
 **matanm28/matanm28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
