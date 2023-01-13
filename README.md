@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me
 - 🔭 I’m currently working at Cisco as a software engineer.
 - 🌱 I’m currently learning app development with Blazor and C#.
-- 🥅 2022 Goals: Contribute to an Open Source project.
+- 🥅 2023 Goals: Contribute to an Open Source project.
 - I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 <br/>
 
