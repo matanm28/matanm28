@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me
 - 🔭 I’m currently working at Cisco as a software engineer.
-- 🥅 2024 Goals: Contribute to an Open Source project.
 - I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 <br/>
 
